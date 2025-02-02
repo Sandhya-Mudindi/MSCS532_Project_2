@@ -8,7 +8,7 @@ This repository contains the implementation for MSCS532 Project 2, which focuses
 - **Description**: It contains the implementation of the FM_Index data structure.
 - **How to Run**:
     ```bash
-    FM_Index.py
+    python FM_Index.py
     ```
 
 ### 2. `Test_Cases.py`
